@@ -1,0 +1,11 @@
+{
+    "nome": "Thais Santos Landfeldt",
+    "emprego": {
+        "idEmprego" : 1,
+        "nome": "Desenvolvedora Java",
+        "descricao": "Programação em java na CWI pro cliente Cardif",
+        "salario": 4500,
+        "dataInicial": "01/01/2024 10:00:00"
+    },
+    "apelido" : "Tatitata"
+}

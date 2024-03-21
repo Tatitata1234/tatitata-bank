@@ -1,0 +1,12 @@
+{
+    "nome": "Desenvolvedora Java",
+    "descricao": "Programação em java na CWI pro cliente Cardif",
+    "salario": 4500,
+    "dataInicial": "01/01/2024 10:00:00"
+}
+{
+    "nome": "Conferente",
+    "descricao": "Conferente nas Drogas Raia",
+    "salario": 2000,
+    "dataInicial": "01/01/2024 10:00:00"
+}

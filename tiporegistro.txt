@@ -1,0 +1,113 @@
+[
+    {
+        "nome": "Nubank débito",
+        "entrada": "S"
+    },
+    {
+        "nome": "Nubank caixinhas",
+        "entrada": "S"
+    },
+    {
+        "nome": "Itau poupança",
+        "entrada": "S"
+    },
+    {
+        "nome": "Itau",
+        "entrada": "S"
+    },
+    {
+        "nome": "Dinheiro",
+        "entrada": "S"
+    },
+    {
+        "nome": "ITI",
+        "entrada": "S"
+    },
+    {
+        "nome": "Itau CDB ",
+        "entrada": "S"
+    },
+    {
+        "nome": "Milhão",
+        "entrada": "S"
+    },
+    {
+        "nome": "Viagem ITI",
+        "entrada": "S"
+    },
+    {
+        "nome": "Fundo imobiliário",
+        "entrada": "S"
+    },
+    {
+        "nome": "RNI",
+        "entrada": "N"
+    }
+]
+
+
+
+
+
+
+
+
+
+
+[
+    {
+        "idTipoRegistro": 1,
+        "nome": "Nubank débito",
+        "entrada": "S"
+    },
+    {
+        "idTipoRegistro": 2,
+        "nome": "Nubank caixinhas",
+        "entrada": "S"
+    },
+    {
+        "idTipoRegistro": 3,
+        "nome": "Itau poupança",
+        "entrada": "S"
+    },
+    {
+        "idTipoRegistro": 4,
+        "nome": "Itau",
+        "entrada": "S"
+    },
+    {
+        "idTipoRegistro": 5,
+        "nome": "Dinheiro",
+        "entrada": "S"
+    },
+    {
+        "idTipoRegistro": 6,
+        "nome": "ITI",
+        "entrada": "S"
+    },
+    {
+        "idTipoRegistro": 7,
+        "nome": "Itau CDB ",
+        "entrada": "S"
+    },
+    {
+        "idTipoRegistro": 8,
+        "nome": "Milhão",
+        "entrada": "S"
+    },
+    {
+        "idTipoRegistro": 9,
+        "nome": "Viagem ITI",
+        "entrada": "S"
+    },
+    {
+        "idTipoRegistro": 10,
+        "nome": "Fundo imobiliário",
+        "entrada": "S"
+    },
+    {
+        "idTipoRegistro": 11,
+        "nome": "RNI",
+        "entrada": "N"
+    }
+]
